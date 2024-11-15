@@ -1,0 +1,34 @@
+{
+  "page_data": {
+    "name": "Jean-Pierre Weill - 3D painting on glass",
+    "fan_count": 17314,
+    "followers_count": 17314,
+    "talking_about_count": 3,
+    "id": "124319427612935"
+  },
+  "insights_data": {
+    "data": [
+      {
+        "name": "page_impressions_unique",
+        "period": "day",
+        "values": [
+          {
+            "value": 6,
+            "end_time": "2024-11-13T08:00:00+0000"
+          },
+          {
+            "value": 12,
+            "end_time": "2024-11-14T08:00:00+0000"
+          }
+        ],
+        "title": "Daily Total Reach",
+        "description": "Daily: The number of people who had any content from your Page or about your Page enter their screen. This includes posts, check-ins, ads, social information from people who interact with your Page and more. (Unique Users)",
+        "id": "124319427612935/insights/page_impressions_unique/day"
+      }
+    ],
+    "paging": {
+      "previous": "https://graph.facebook.com/v20.0/124319427612935/insights?access_token=EAANBzIM0P0UBOw60ocPZBrndEWN7KzJu9GPMMwUzGk8JXZClZBZAY50Fj9umPAekItHZAxQVHZAq6HKySxbX3JWf21gdU6c5Osjc2T82adoLLR6X8b7F0hunUi6n3G4KXpVgegOpHLaU5HxZBW70OidCJ79ZAzRQAEsWzjh0WdpoQfnjFJAuvtzsxfkU46fdHZBugX19wSIlZBJLTVChoZD&metric=page_impressions_unique&period=day&since=1731225600&until=1731398400",
+      "next": "https://graph.facebook.com/v20.0/124319427612935/insights?access_token=EAANBzIM0P0UBOw60ocPZBrndEWN7KzJu9GPMMwUzGk8JXZClZBZAY50Fj9umPAekItHZAxQVHZAq6HKySxbX3JWf21gdU6c5Osjc2T82adoLLR6X8b7F0hunUi6n3G4KXpVgegOpHLaU5HxZBW70OidCJ79ZAzRQAEsWzjh0WdpoQfnjFJAuvtzsxfkU46fdHZBugX19wSIlZBJLTVChoZD&metric=page_impressions_unique&period=day&since=1731571200&until=1731744000"
+    }
+  }
+}
