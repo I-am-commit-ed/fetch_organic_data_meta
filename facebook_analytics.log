@@ -81,3 +81,4 @@
 2024-11-15 16:42:35,462 - FacebookAnalytics - INFO - Initialized Facebook Analytics for page ID: 124319427612935
 2024-11-15 16:42:35,462 - FacebookAnalytics - INFO - Making API request: fetch page details
 2024-11-15 16:42:36,160 - FacebookAnalytics - INFO - Making API request: fetch posts data
+2024-11-15 16:43:16,395 - FacebookAnalytics - INFO - Data saved in /Users/manuel/Documents/GitHub/fetch_organic_data_meta/data/20241115_164316
